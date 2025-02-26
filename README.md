@@ -1,6 +1,8 @@
 <style>
     @import url(//fonts.googleapis.com/css?family=Butcherman);
+@import url('https://fonts.googleapis.com/css2?family=Butcherman&family=Permanent+Marker&family=Rubik+Marker+Hatch&display=swap');
 </style>
+
 .ve-annotate
 # **Othello: Iago's Manipulation and Othello's Reaction**
 .ve-media wc:Kawah-Ijen_Indonesia_The-sulfur-mine-at_the-floor-of-the-crater-03.jpg right static
@@ -16,7 +18,7 @@ The Moor already changes with my poison;</br>
 Dangerous conceits are in their natures poisons,</br>
 Which at the first are scarce found to distaste,</br>
 But with a little act upon the <span style="color:red; font-family:Butcherman;">blood</span></br>
-Burn like the mines of <span style="color:#cbd500;">sulfur</span>.</br>
+Burn like the mines of <span style="color:#cbd500; font-family:Rubik+Marker+Hatch;">sulfur</span>.</br>
 &emsp;<span style="color:grey; font-size:17px;">_(Enter ==Othello=={Q1966171}.)_</span></br>
 I did say so.</br>
 Look where he comes. Not poppy nor ==mandragora=={Q99981508}</br>
