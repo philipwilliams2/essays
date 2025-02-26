@@ -1,11 +1,10 @@
 <style>
-    @import url(//fonts.googleapis.com/css?family=Butcherman);
-@import url('https://fonts.googleapis.com/css2?family=Butcherman&family=Permanent+Marker&family=Rubik+Marker+Hatch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Butcherman&family=Pangolin&display=swap');
 </style>
 
 .ve-annotate
 # **Othello: Iago's Manipulation and Othello's Reaction**
-.ve-media wc:Kawah-Ijen_Indonesia_The-sulfur-mine-at_the-floor-of-the-crater-03.jpg right static
+.ve-media wc:Kawah-Ijen_Indonesia_The-sulfur-mine-at_the-floor-of-the-crater-03.jpg right static width=80% height=80%
 **==IAGO=={Q1655364}**: </br>
 Be not acknown on ’t.</br>
 I have use for it. Go, leave me.</br>
@@ -18,7 +17,7 @@ The Moor already changes with my poison;</br>
 Dangerous conceits are in their natures poisons,</br>
 Which at the first are scarce found to distaste,</br>
 But with a little act upon the <span style="color:red; font-family:Butcherman;">blood</span></br>
-Burn like the mines of <span style="color:#cbd500; font-family:Rubik+Marker+Hatch;">sulfur</span>.</br>
+Burn like the mines of <span style="color:#cbd500; font-family:Pangolin;">sulfur</span>.</br>
 &emsp;<span style="color:grey; font-size:17px;">_(Enter ==Othello=={Q1966171}.)_</span></br>
 I did say so.</br>
 Look where he comes. Not poppy nor ==mandragora=={Q99981508}</br>
@@ -35,7 +34,7 @@ I swear ’tis better to be much abused</br>
 Than but to know ’t a little.</br>
 **IAGO:**</br>
 How now, my lord?</br>
-.ve-media wc:Christian_Köhler_Othello.jpg right
+.ve-media wc:Christian_Köhler_Othello.jpg right width=80% height=80%
 **OTHELLO:**</br>
 What sense had I of her stol’n hours of lust?</br>
 I saw ’t not, thought it not; it harmed not me.</br>
