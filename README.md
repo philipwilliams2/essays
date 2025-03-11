@@ -32,7 +32,7 @@ Why, how now, <span style="color:green;">general</span>? No more of that!</br>
 [Avaunt](https://www.merriam-webster.com/dictionary/avaunt)! Begone! Thou hast set me on the <span style="color:brown;">rack</span>.</br>
 I swear ’tis better to be much abused</br>
 Than but to know ’t a little.</br>
-.ve-media wc:Christian_Köhler_Othello.jpg right static width=75% height=auto
+.ve-media wc:Christian_Köhler_Othello.jpg right static width=70% height=auto
 **IAGO:**</br>
 How now, my lord?</br>
 **OTHELLO:**</br>
