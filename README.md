@@ -44,6 +44,7 @@ I found not Cassio’s kisses on her <span style="color:red;">lips</span>.</br>
 He that is robbed, not wanting what is stol’n,</br>
 Let him not know ’t, and he’s not robbed at all.</br>
 **IAGO**  I am sorry to hear this.</br>
+.ve-media wc:Bust_Portrait_of_Man_in_a_Plumed_Hat_Met_DP890235.jpg right static width=80% height=auto
 OTHELLO:</br>
 I had been happy if the general camp,</br>
 Pioners and all, had tasted her sweet body,</br>
@@ -59,7 +60,7 @@ And O you mortal engines, whose rude throats</br>
 Th’ immortal Jove’s dread clamors counterfeit,</br>
 Farewell! Othello’s occupation’s gone!</br>
 **IAGO:**</br>
-Is ’t possible, my lord?</br>
+Is’t possible, my lord?</br>
 **OTHELLO:**</br>
 Villain, be sure thou prove my love a whore!</br>
 Be sure of it. Give me the ocular proof,</br>
