@@ -4,43 +4,43 @@
 
 .ve-annotate
 # **Othello: Iago's Manipulation and Othello's Reaction**
-.ve-media wc:Kawah-Ijen_Indonesia_The-sulfur-mine-at_the-floor-of-the-crater-03.jpg right static width=80% height=80%
+.ve-media wc:Kawah-Ijen_Indonesia_The-sulfur-mine-at_the-floor-of-the-crater-03.jpg right static width=80% height=auto
 **==IAGO=={Q1655364}**: </br>
 Be not acknown on ’t.</br>
 I have use for it. Go, leave me.</br>
 &emsp;<span style="color:grey; font-size:17px;">_(==Emilia=={Q5371628} exits.)_</span></br>
-I will in Cassio’s lodging lose this napkin</br>
+I will in ==Cassio=={Q6829164}’s lodging lose this napkin</br>
 And let him find it. Trifles light as air</br>
 Are to the jealous confirmations strong</br>
 As proofs of holy writ. This may do something.</br>
-The Moor already changes with my poison;</br>
-Dangerous conceits are in their natures poisons,</br>
+The Moor already changes with my <span style="color:green; font-family:Butcherman;">poison</span>;</br>
+Dangerous conceits are in their natures <span style="color:green; font-family:Butcherman;">poisons</span>,</br>
 Which at the first are scarce found to distaste,</br>
 But with a little act upon the <span style="color:red; font-family:Butcherman;">blood</span></br>
-Burn like the mines of <span style="color:#cbd500; font-family:Pangolin;">sulfur</span>.</br>
+Burn like the <span style="color:grey">mines</span> of <span style="color:#cbd500; font-family:Pangolin;">sulfur</span>.</br>
 &emsp;<span style="color:grey; font-size:17px;">_(Enter ==Othello=={Q1966171}.)_</span></br>
 I did say so.</br>
-Look where he comes. Not poppy nor ==mandragora=={Q99981508}</br>
+Look where he comes. Not <span style="color:red;">poppy</span> nor <span style="color:purple;">==mandragora=={Q99981508}</span></br>
 Nor all the drowsy syrups of the world</br>
 Shall ever medicine thee to that sweet sleep</br>
 Which thou owedst yesterday.</br>
 **OTHELLO:**</br>
 Ha, ha, false to me?</br>
 IAGO:</br>
-Why, how now, general? No more of that!</br>
+Why, how now, <span style="color:green;">general</span>? No more of that!</br>
 **OTHELLO:**</br>
-[Avaunt](https://www.merriam-webster.com/dictionary/avaunt)! Begone! Thou hast set me on the rack.</br>
+[Avaunt](https://www.merriam-webster.com/dictionary/avaunt)! Begone! Thou hast set me on the <span style="color:brown;">rack</span>.</br>
 I swear ’tis better to be much abused</br>
 Than but to know ’t a little.</br>
 **IAGO:**</br>
 How now, my lord?</br>
-.ve-media wc:Christian_Köhler_Othello.jpg right width=80% height=80%
+.ve-media wc:Christian_Köhler_Othello.jpg right static width=80% height=auto
 **OTHELLO:**</br>
 What sense had I of her stol’n hours of lust?</br>
 I saw ’t not, thought it not; it harmed not me.</br>
 I slept the next night well, fed well, was free and</br>
 merry.</br>
-I found not Cassio’s kisses on her lips.</br>
+I found not Cassio’s kisses on her <span style="color:red;">lips</span>.</br>
 He that is robbed, not wanting what is stol’n,</br>
 Let him not know ’t, and he’s not robbed at all.</br>
 **IAGO**  I am sorry to hear this.</br>
@@ -72,3 +72,5 @@ Is ’t come to this?</br>
 Make me to see ’t, or at the least so prove it</br>
 That the probation bear no hinge nor loop</br>
 To hang a doubt on, or woe upon thy life!</br>
+
+.ve-annotate
