@@ -26,7 +26,7 @@ Shall ever medicine thee to that sweet sleep</br>
 Which thou owedst yesterday.</br>
 **OTHELLO:**</br>
 Ha, ha, false to me?</br>
-IAGO:</br>
+**IAGO:**</br>
 Why, how now, <span style="color:green;">general</span>? No more of that!</br>
 **OTHELLO:**</br>
 [Avaunt](https://www.merriam-webster.com/dictionary/avaunt)! Begone! Thou hast set me on the <span style="color:brown;">rack</span>.</br>
