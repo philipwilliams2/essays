@@ -45,7 +45,7 @@ He that is robbed, not wanting what is stol’n,</br>
 Let him not know ’t, and he’s not robbed at all.</br>
 **IAGO**  I am sorry to hear this.</br>
 .ve-media wc:Bust_Portrait_of_Man_in_a_Plumed_Hat_Met_DP890235.jpg right static width=80% height=auto
-OTHELLO:</br>
+**OTHELLO:**</br>
 I had been happy if the general camp,</br>
 Pioners and all, had tasted her <span style="font-family:Ole;">sweet </span>body,</br>
 So I had nothing known. O, now, forever</br>
